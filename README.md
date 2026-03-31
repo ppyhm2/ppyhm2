@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi, I'm Henry
 
-<!--
-**ppyhm2/ppyhm2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Analytics Engineer and BI Developer based in London, with 4.5+ years of experience building data pipelines, transformation layers, and dashboards across shipping, financial services, healthcare, and loyalty.
 
-Here are some ideas to get you started:
+## Highlights
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Reduced financial data processing from 3.5 hours to under 15 minutes by redesigning two large financial tables (18M and 120M rows) using a targeted upsert-based delta load architecture
+- Built a cash flow dashboard that surfaced a $9M financial exposure for commercial teams
+- Rescued a failing contractual BI pipeline by reverse-engineering undocumented legacy SQL and delivering an automated PowerShell solution with Azure Blob Storage delivery
+
+## Experience
+
+_Feb 2023 – Present_
+
+BI Developer @ Inchcape Shipping Services
+
+_Apr 2021 – Feb 2023_
+
+Consultant @ The Information Lab
+
+Clients: IAG Loyalty (Avios), PwC UK, City & County Healthcare Group, Inchcape Shipping Services
+
+## What I Work With
+
+**Core:** SQL, Tableau, Alteryx, Python, dbt, Redshift, BigQuery, PostgreSQL
+
+**Certifications:** Tableau Certified Data Analyst | Tableau Desktop Certified Associate | Alteryx Designer Advanced | dbt Fundamentals
+
+## Projects
+
+### [TfL Santander Cycles 2024](https://github.com/ppyhm2/tfl_santander_bikes_2024)
+A personal dbt project transforming Transport for London's Santander Cycle Hire data in BigQuery. Built to practise end-to-end ELT: source declaration, staged transformations, intermediate business logic, and aggregated marts. Tested with dbt_utils and dbt_expectations.
+
+### [dbt Fundamentals](https://github.com/ppyhm2/dbt_fundamentals/tree/feat/refactor-customers-sql-query)
+A repository built alongside the official [dbt Fundamentals course](https://learn.getdbt.com/courses/dbt-fundamentals) — my first structured introduction to dbt before the Santander Cycles project.
+
+## Recognition
+
+Two-time Tableau [Viz of the Day](https://public.tableau.com/app/discover/viz-of-the-day) recipient | PwC UK Best New Asset (June 2022)
+
+## Find Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Henry%20Mak-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/henry-mak)
+[![Tableau Public](https://img.shields.io/badge/Tableau-Public-orange?style=flat&logo=tableau)](https://public.tableau.com/app/profile/henry.mak/vizzes)
