@@ -31,6 +31,9 @@ Clients: IAG Loyalty (Avios), PwC UK, City & County Healthcare Group, Inchcape S
 ### [TfL Santander Cycles 2024](https://github.com/ppyhm2/tfl_santander_bikes_2024)
 A personal dbt project transforming Transport for London's Santander Cycle Hire data in BigQuery. Built to practise end-to-end ELT: source declaration, staged transformations, intermediate business logic, and aggregated marts. Tested with dbt_utils and dbt_expectations.
 
+### [Insurance Customer Journey Analytics](https://github.com/ppyhm2/insurance-customer-journey-analytics)
+A practice exercise in analytics engineering and data modelling, built around a fictional insurtech brief. Covers requirements gathering, KPI definition, a layered dbt-style data model (staging → intermediate → marts), SQL implementation, a testing strategy, and a dashboard design — using a fictional motor insurance dataset spanning proposals, quotes, decline reasons, and transactions.
+
 ### [dbt Fundamentals](https://github.com/ppyhm2/dbt_fundamentals/tree/feat/refactor-customers-sql-query)
 A repository built alongside the official [dbt Fundamentals course](https://learn.getdbt.com/courses/dbt-fundamentals) — my first structured introduction to dbt before the Santander Cycles project.
 
