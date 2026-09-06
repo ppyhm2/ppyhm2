@@ -28,6 +28,9 @@ Clients: IAG Loyalty (Avios), PwC UK, City & County Healthcare Group, Inchcape S
 
 ## Projects
 
+### [Podcast Listening Analytics](https://github.com/ppyhm2/podcast-listening-analytics)
+A dbt Core and DuckDB project turning a deliberately messy podcast interaction log into a tested, analytics-ready star schema. Focuses on modelling judgement under ambiguity: quarantining invalid events rather than discarding them, defining and justifying an ambiguous metric like "listened", and capping implausible listen durations rather than hiding them. Built on a synthetic 40,000-event dataset with flaws injected by a seeded generator, backed by 26 dbt tests.
+
 ### [TfL Santander Cycles 2024](https://github.com/ppyhm2/tfl_santander_bikes_2024)
 A personal dbt project transforming Transport for London's Santander Cycle Hire data in BigQuery. Built to practise end-to-end ELT: source declaration, staged transformations, intermediate business logic, and aggregated marts. Tested with dbt_utils and dbt_expectations.
 
