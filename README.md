@@ -10,7 +10,7 @@ Analytics Engineer and BI Developer based in London, with 4.5+ years of experien
 
 ## Experience
 
-_Feb 2023 – Present_
+_Feb 2023 – September 2026_
 
 BI Developer @ Inchcape Shipping Services
 
