@@ -1,6 +1,6 @@
 # Hi, I'm Henry
 
-Analytics Engineer and BI Developer based in London, with 4.5+ years of experience building data pipelines, transformation layers, and dashboards across shipping, financial services, healthcare, and loyalty.
+Analytics Engineer and BI Developer based in London, with 5.5+ years of experience building data pipelines, transformation layers, and dashboards across shipping, financial services, healthcare, and loyalty.
 
 ## Highlights
 
